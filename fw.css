@@ -1,0 +1,55 @@
+body {
+    background-color: white;
+    font-family:'Montserrat', sans-serif;
+    /* font-size: 120%; */
+}
+
+table {
+    /* background-color: #e6e6e6; */
+    /* margin-left: 50px; */
+    /* margin-right: 450px; */
+}
+
+td {
+    padding: 7px;
+    border: 1px solid black;
+}
+
+#rs {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#analysis {
+    padding-left: 8px;
+}
+
+#base {
+    background-color: rgba(26, 117, 255, 0.675);
+    opacity: 90%;
+    font-weight: 600;
+}
+
+.darker {
+    background-color: #cccccc;
+}
+
+.lighter {
+    background-color: #f4f4f4;
+}
+
+a {
+    color: #0e7be8;
+}
+
+a:hover {
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
